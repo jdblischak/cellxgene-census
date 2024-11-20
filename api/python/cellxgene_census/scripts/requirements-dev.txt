@@ -1,4 +1,4 @@
-numpy
+numpy==2
 pytest
 requests-mock
 twine
